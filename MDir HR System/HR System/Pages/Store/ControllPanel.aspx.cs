@@ -42,6 +42,7 @@ namespace HR_Salaries.Pages.CBS
             //RowsData.Visible = true;
             PalUpdate.Visible = true;
             AddUpdate.Text = "2";
+            int ATaT = 2;
         }
 
         protected void GVUpdate_SelectedIndexChanged(object sender, EventArgs e)
