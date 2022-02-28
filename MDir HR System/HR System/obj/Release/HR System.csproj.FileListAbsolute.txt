@@ -1,0 +1,101 @@
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\HR.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\HR.pdb
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.Cache
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR.pdb
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR System.csprojAssemblyReference.cache
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR System.csproj.CoreCompileInputs.cache
+C:\Users\Murtada\Source\Repos\HR\MDir HR System\HR System\obj\Release\HR System.csproj.CopyComplete
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\HR.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\HR.pdb
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\Users\lenovo\Desktop\VB Apps\PPC App\HR\MDir HR System\HR System\obj\Release\HR.pdb
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\HR.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\HR.pdb
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\Users\dell\Desktop\PO\PPC App\HR\MDir HR System\HR System\obj\Release\HR.pdb
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\HR.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\HR.pdb
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR System.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\Users\dell\Desktop\PO\CBS\HR\MDir HR System\HR System\obj\Release\HR.pdb
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\HR.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\HR.pdb
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR System.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\Users\dell\Desktop\PO\Store\HR\MDir HR System\HR System\obj\Release\HR.pdb
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\HR.dll.config
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\HR.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\HR.pdb
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\AjaxControlToolkit.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.ReportSource.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.Shared.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\CrystalDecisions.Web.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\bin\Microsoft.Data.Tools.Components.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.AssemblyReference.cache
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\Interop.MsRdpSessionManager.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.ResolveComReference.cache
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR_Salaries.Properties.Resources.resources
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.GenerateResource.cache
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.CoreCompileInputs.cache
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR System.csproj.CopyComplete
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR.dll
+C:\OldWork\AppS\Store\HR\MDir HR System\HR System\obj\Release\HR.pdb
